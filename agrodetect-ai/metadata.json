@@ -1,0 +1,5 @@
+{
+  "name": "AgroDetect AI",
+  "description": "Advanced plant disease classification engine powered by Gemini AI. Upload or capture plant photos for instant diagnosis and treatment recommendations.",
+  "requestFramePermissions": ["camera"]
+}
